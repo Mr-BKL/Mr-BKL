@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : The project push swap from the 42 cursus<br>👯 I’m looking to collaborate on : Any projects i may find fun and use as a learning experience!<br>🌱 I’m currently learning: C, Python, Java<br>💬 Ask me about: Anything<br>
+🔭 I'm Ahmed, a passionate developer with a strong determination to learn and grow. My expertise lies in C, C++, Python, and Java. I believe in continuous learning and improving my skills to tackle challenging projects and contribute meaningfully to the tech community.
 
 
 ## 🌐 Socials:
