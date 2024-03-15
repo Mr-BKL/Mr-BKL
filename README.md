@@ -2,6 +2,8 @@
 🔭 I'm Ahmed, a passionate developer with a strong determination to learn and grow. My expertise lies in C, C++, Python, and Java. I believe in continuous learning and improving my skills to tackle challenging projects and contribute meaningfully to the tech community.
 
 
+![](https://komarev.com/ghpvc/?username=ahaarij)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahaarij) 
 
